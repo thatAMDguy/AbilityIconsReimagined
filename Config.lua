@@ -5546,8 +5546,28 @@ local REPLACEMENT_ICONS = {
 "ability_werewolf_006_c.dds",
     
     
-   
-    
+    --Misc  
+	
+"ability_buff_major_force.dds",
+"ability_buff_major_slayer.dds",
+"ability_debuff_levitate.dds",
+"ability_healer_019.dds",
+"ability_healer_030.dds",
+"ability_mage_037.dds",
+"ability_mage_044.dds",
+"ability_warrior_028.dds",
+"achievement_u25_dun2_flavor_boss_3b.dds",
+"achievement_vvardenfel_061.dds",
+"antiquities_ornate_necklace_3.dds",
+"consumable_potion_012_type_002.dds",
+"death_recap_cold_aoe.dds",
+"gear_razorhorndaedric_shoulder_a.dds",
+"gear_terrorbear_head_a.dds",
+"gear_undaunted_werewolfbehemoth_head_a.dds",
+"gear_undfiregiant_head_a.dds",
+"gear_undredlord_head_a.dds",
+"u30_trial_soulrip.dds",
+"u34_vtrial_meta.dds",
     
     
     
